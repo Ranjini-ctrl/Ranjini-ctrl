@@ -12,7 +12,7 @@ I'm Ranjini,<br>  Passionate about Web Tech & DSA | Turning Ideas into Code thro
 ![](https://streak-stats.demolab.com/?user=Ranjini-ctrl&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ranjini-ctrl&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ranjini-ctrl&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
@@ -21,4 +21,4 @@ I'm Ranjini,<br>  Passionate about Web Tech & DSA | Turning Ideas into Code thro
 ---
 [![](https://komarev.com/ghpvc/?username=Ranjini-ctrl&icon=4&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in ) -->
